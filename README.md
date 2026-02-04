@@ -1,5 +1,5 @@
 # FMCG-Databricks-End-to-End-Project
-In this project we will build an ETL pipeline for a real life industry use case where a big retail company acquires a small one and we will build the data pipeline to consolidate data from both the companies into a single lakehouse architecture. 
+In this project we will build an ETL pipeline for a real life industry use case where a big retail company(Nistle) acquires a small one(Proctor) and we will build the data pipeline to consolidate data from both the companies into a single lakehouse architecture. 
 ## Techstack 
  i) Python
  ii) SQL
