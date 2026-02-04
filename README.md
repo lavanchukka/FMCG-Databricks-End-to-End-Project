@@ -17,5 +17,9 @@ In this project we will build an ETL pipeline for a real life industry use case 
 ## Architecture
  <img width="20005" height="11129" alt="project_architecture" src="https://github.com/user-attachments/assets/e53c3cb4-19fa-409c-aec3-8ffc2c975510" />
  
- ### <ins>Parent Company Datamodel<ins>
+ ### <ins>i)Parent Company Datamodel<ins>
 <img width="1461" height="850" alt="Parent company Datamodel" src="https://github.com/user-attachments/assets/e90d41ef-57f1-4bca-a810-bae4c12131c8" />
+
+ ### <ins>ii)Child Company model<ins>
+ <img width="1406" height="508" alt="Child Company model" src="https://github.com/user-attachments/assets/227a053f-7385-4da7-a1a7-37535618c96c" />
+
